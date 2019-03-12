@@ -1,18 +1,10 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- SUBTITLE: Wiki 首页 -->
 
-# Test
+# 标题一
 
-blah blah test save
+# Markdown
 
-more tests
+[语法](https://github.github.com/gfm/)
 
-can it just save immediately?
-
-so, 2 min cache?
-
-| c1 | c2 |
-|---| ---|
-|a| b|
-
-[[link]]
+[沙盒](sandbox)
